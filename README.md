@@ -10,3 +10,10 @@ Youtube: https://www.youtube.com/channel/UCdXg0-BF9FblZ2GTi3u4orQ
 
 
 Pokecommunity: https://www.pokecommunity.com/showthread.php?t=484949
+
+/////////////////////////////////////////////////////////////////////////
+FORK
+/////////////////////////////////////////////////////////////////////////
+
+Added 2 New files to setup a linux server and run a vnc on the backend to run the mgba client.
+This allows us to use this repo on a cheap dedicated / vps.
